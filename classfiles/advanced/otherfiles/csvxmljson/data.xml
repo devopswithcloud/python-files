@@ -1,0 +1,10 @@
+<company>
+<employee id ="101">
+<name>JON</name>
+<position>Manager</position>
+</employee>
+<employee id ="102">
+<name>jj</name>
+<position>Developer</position>
+</employee>
+</company>
